@@ -1,5 +1,5 @@
 
-!(./DataparencyLogoDarkBlue.png)
+!(https://github.com/dataparency-dev/examples/DataparencyLogoDarkBlue.png)
 
 # Dataparency D-ISP Examples
 
