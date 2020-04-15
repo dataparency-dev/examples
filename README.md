@@ -13,3 +13,4 @@ Follow this link for Postman examples: <https://api.dataparency.com>
 
 Send email to dev@dataparency.com requesting demo version of D-ISP to run Postman examples locally. Include OS (Windows, Linux), your name, and your organization.
 
+&copy; Copyright 2020 Dataparency, LLC. All rights reserved. D-ISP and Dataparency Information Sharing Platform are trademarks of Dataparency, LLC
