@@ -7,7 +7,7 @@ Dataparency Information Sharing Platform&trade; is an Entity-centric, Entity-bou
 
 It is highly scalable as data can be sharded by entity. Combined with FaaS like AWS Lambda, it can support thousands to millions of accesses per second. 
 It is appropriate for use cases where privacy and security are an essential need.
-Reference the whitepaper for further details. See FAQS: </FAQS/faqs.md>
+Reference the whitepaper for further details. See ![Faqs](faqs.md)
 
 Follow this link for Postman examples: <https://api.dataparency.com>
 
