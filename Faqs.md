@@ -9,9 +9,9 @@ privacy and better security of PII (Personal Identifying Information).
 
 D-ISP controls data access through a Relationship between the Entity whose data is queried (the Target) 
 and the Entity that is requesting access (the Requestor).
-Relationships are encoded in Relationship Distributed Identifier (RDID) that store the target and requestor's identity expressed
+Relationships are encoded in Relationship Distributed Identifiers (RDID) that store the target and requestor's identity expressed
 as Entity Distributed Identifiers (EDID) that where allocated when the Entity was registered with the platform.
-RDIDs are required to be passed in all requests for data along with the passCode that was allocated
+RDIDs are required to be passed in all requests for data along with the JWT token from login containing tbe passCode that was allocated
 to the requestor when they registered with the platform.
 
 ## What is a Schema-agnostic Data Model?
