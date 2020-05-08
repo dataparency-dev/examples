@@ -19,6 +19,6 @@ to the requestor when they registered with the platform.
 Schema agnostic means that there is no requirement to define a schema to store and access data in D-ISP.
 Additionally, there is no requirement to define indexes in order to speed up queries. Documents stored in
 D-ISP have been parsed into a format called 'Common Hierarchical Format' (CHF). Structures in the CHF allow
-query matches without consulting an index, basically, the index is in the CHF and goes with the document
+query matches without consulting an index; basically, the index is in the CHF and goes with the document
 wherever it may go. Any attribute/element/field and/or its value can be queried without an index.
  
