@@ -56,6 +56,7 @@ wherever it may go. Any attribute/element/field and/or its value can be queried 
     9. Analytical Database
     10. Analytics Workstation using statistics from D-ISP
     11.	K8s D-ISP data framework supporting microservices
+    12. Edge Computing event streams
  -	Partnerships with Network providers e.g., Verizon, ATT, T-Mobile, etc.
  
     1. Build frameworks to provide B2B services as subscriptions
